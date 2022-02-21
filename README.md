@@ -1,2 +1,2 @@
 # recursion-iteration-factorial-Cpp
-snake game written in Cpp 
+simple task to train file sharing and testing range of unsigned type
