@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1645457748 source:c:\users\ksw09\desktop\projekty-luüne\facotrial_recursive_iterational\main.cpp
+	<iostream>
+	"factorials.hpp"
+	"recursive_factorial.cpp"
+	"iterational_factorial.cpp"
+
+1645456510 c:\users\ksw09\desktop\projekty-luüne\facotrial_recursive_iterational\factorials.h
+
+1645457586 c:\users\ksw09\desktop\projekty-luüne\facotrial_recursive_iterational\factorials.hpp
+
+1645457586 c:\users\ksw09\desktop\projekty-luüne\facotrial_recursive_iterational\recursive_factorial.cpp
+	<iostream>
+	"factorials.hpp"
+
+1645457586 c:\users\ksw09\desktop\projekty-luüne\facotrial_recursive_iterational\iterational_factorial.cpp
+	<iostream>
+	"factorials.hpp"
+
